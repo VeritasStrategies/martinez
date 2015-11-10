@@ -1,0 +1,11 @@
+wp-config.php
+*.swp
+*.log
+.htaccess
+www/wp-content/advanced-cache.php
+www/wp-content/backup-db/
+www/wp-content/blog.dir/
+www/wp-content/cache/
+www/wp-content/upgrade/
+www/wp-content/uploads/wpcf7_captcha/
+www/wp-content/uploads/wp-migrate-db/
